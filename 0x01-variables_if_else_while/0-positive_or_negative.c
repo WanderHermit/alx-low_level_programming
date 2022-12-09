@@ -6,7 +6,8 @@
  * description: 'get and print a random number'
  * return: Always 0 (Success)
  */
-int main(void) {
+int main(void)
+{
 	int n;
 
 	srand(time(0));
@@ -17,5 +18,5 @@ int main(void) {
 		printf("%i is negative\n", n);
 	else
 		printf("%i is zero\n", n);
-	return (0);
+	return 0;
 }
