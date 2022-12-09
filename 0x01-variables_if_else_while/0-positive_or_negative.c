@@ -4,7 +4,7 @@
 /**
  * main - main block
  * description: 'get and print a random number'
- * return: Always 0 (Success)
+ * return: 0 (Success)
  */
 int main(void)
 {
