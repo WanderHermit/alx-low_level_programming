@@ -6,8 +6,7 @@
  * description: 'get and print a random number'
  * return: Always 0 (Success)
  */
-int main(void)
-{
+int main(void) {
 	int n;
 
 	srand(time(0));
